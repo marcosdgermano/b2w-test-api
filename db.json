@@ -1,0 +1,32 @@
+{
+    "images": [
+        {
+            "title": "A New Hope",
+            "url": "https://i.imgur.com/hxYs7sZ.jpg"
+        },
+        {
+            "title": "The Empire Strikes Back",
+            "url": "https://i.imgur.com/W9cBVcK.jpg"
+        },
+        {
+            "title": "Return of the Jedi",
+            "url": "https://i.imgur.com/LBDH1Yz.jpg"
+        },
+        {
+            "title": "The Phantom Menace",
+            "url": "https://i.imgur.com/0FQTegN.jpg"
+        },
+        {
+            "title": "Attack of the Clones",
+            "url": "https://i.imgur.com/lpIJcrM.jpg"
+        },
+        {
+            "title": "Revenge of the Sith",
+            "url": "https://i.imgur.com/fudlWqI.jpg"
+        },
+        {
+            "title": "The Force Awakens",
+            "url": "https://i.imgur.com/4RhJMEX.jpg"
+        }
+    ]
+}
